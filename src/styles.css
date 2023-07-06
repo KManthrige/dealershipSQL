@@ -1,0 +1,12 @@
+.tableOutline {
+    padding: 10px;
+
+}
+
+table, th, td {
+    margin: 30px;
+    width: 100px;
+    border: 1px solid black;
+    padding: 10px;
+    border-collapse: separate;
+}
